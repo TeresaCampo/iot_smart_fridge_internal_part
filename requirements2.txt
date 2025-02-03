@@ -1,0 +1,8 @@
+certifi==2024.12.14
+charset-normalizer==3.4.1
+idna==3.10
+PyBluez @ git+https://github.com/pybluez/pybluez.git@82cbba8a1ebd4c1e3442dfafd8581d58c50fa39e
+requests==2.32.3
+setuptools==75.1.0
+urllib3==2.3.0
+wheel==0.44.0
